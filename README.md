@@ -33,8 +33,8 @@ handforest (ij ust write it here not to forget)
 Erwin Wurm - Am I a house? [a link](https://vimeo.com/410757804)
 Yona Friedman [a link](http://yonafriedman.blogspot.com/)
 Sou Fujimoto
-Hanahana VR
-The fisherman's tale VR
+Hanahana VR [a link](http://www.hanahana.world/)
+The fisherman's tale VR [a link](https://afishermanstale-game.com/)
 
 ## Technology 
 
