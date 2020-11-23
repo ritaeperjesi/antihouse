@@ -42,13 +42,13 @@ The fisherman's tale VR [a link](https://afishermanstale-game.com/)
 
 ## Diary
 
-#### 09.09. consultation with Stefan
+#### 09.11. consultation with Stefan
 Homework: 
 - set up environment
 - oculus quest + unity
 - unity + github
 
-#### 12.09. consultation with Miklós
+#### 12.11. consultation with Miklós
 - "normal" people are not really into spaces. At architecture school you are taught to pay attention to spaces, but otherwise it is quite an abstract way of sensing the world.
 - talking space idea
 - spaceship house, old architypes of spaces, bubble archtype, where else can this go?
@@ -56,4 +56,12 @@ Homework:
 Research on this more! 
 Island, sírbolt, nest, forest, egg
 traveling: ship? cave (üreg), tunnel (alagút), church, house, égi jeruzsálem?  - i'm not sure if this is relevant
+
+#### 16.11. consultation with Domi + thinking
+-make it black and white - it's only about the space - colors can appear at some point, but it's about their meaning
+- Wolves in the Walls VR experience, I love the handmade textures, chalk lines, there is an episode where you go through the wall and you are in between the elements, it is really cool.
+Technical:
+-Setting up work environment: https://circuitstream.com/blog/oculus-quest-unity-setup/
+  I've been following this. 
+ Plan: set of spaces and images. 
 
