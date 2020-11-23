@@ -36,6 +36,8 @@ Sou Fujimoto
 Hanahana VR [a link](http://www.hanahana.world/)
 The fisherman's tale VR [a link](https://afishermanstale-game.com/)
 
+[pinterest board](https://hu.pinterest.com/eperjesirita/antihouse/)
+
 ## Technology 
 
 ## Plan
