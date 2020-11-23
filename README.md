@@ -67,3 +67,13 @@ Technical:
   I've been following this. 
  Plan: set of spaces and images. 
 
+#### 23.11. consultation with Stefan
+Homework:
+- houdini to unity
+https://www.sidefx.com/products/houdini-engine/plug-ins/unity-plug-in/
+- lighting with oculus might be tricky
+https://learn.unity.com/tutorial/introduction-to-lighting-and-rendering#
+https://www.youtube.com/watch?v=VnG2gOKV9dw
+- sound! it could be cool to have the sound reacting to the space (how big it is)
+- ask Juli to help with recording it
+. worst case, best case storyboard for next week
