@@ -54,6 +54,9 @@ Homework:
 - "normal" people are not really into spaces. At architecture school you are taught to pay attention to spaces, but otherwise it is quite an abstract way of sensing the world.
 - talking space idea
 - spaceship house, old architypes of spaces, bubble archtype, where else can this go?
+ [spaceship house](https://www.youtube.com/watch?v=pSTp2KOxlOM&feature=emb_logo)
+ [Albert Speer](https://ia600304.us.archive.org/2/items/Speer-Albert-Die-neue-Reichskanzlei/SpeerAlbert-DieNeueReichskanzlei1940134S.Text.pdf)
+  
 ##### Space architypes: 
 Research on this more! 
 Island, sírbolt, nest, forest, egg
