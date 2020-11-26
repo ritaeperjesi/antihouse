@@ -20,6 +20,9 @@ Should I be small? Should I be big? I can actually be infinitely big! Hello, Bur
 small-big-infinite
 #### Shape
 cube-sphere-weird generative morph
+
+#### In-Out
+
 #### Architypes
 
 #### Elements
