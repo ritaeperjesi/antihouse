@@ -83,3 +83,7 @@ https://www.youtube.com/watch?v=VnG2gOKV9dw
 - sound! it could be cool to have the sound reacting to the space (how big it is)
 - ask Juli to help with recording it
 . worst case, best case storyboard for next week
+
+#### 23.11. consultation with Miklós
+[miro board](https://miro.com/app/board/o9J_ld9aCN4=/)
+- the beginning of the storyline is great. I have to figure out the end and what I want to message.
