@@ -89,7 +89,7 @@ https://www.youtube.com/watch?v=VnG2gOKV9dw
 - the beginning of the storyline is great. I have to figure out the end and what I want to message.
 
 
-#### 23.11. consultation with ctech
+#### 02.12. consultation with ctech
 Things to check out:
 -non euklédeszi geometry
 [game to check out](http://antichamber-game.com/)
