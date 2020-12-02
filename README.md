@@ -87,3 +87,15 @@ https://www.youtube.com/watch?v=VnG2gOKV9dw
 #### 23.11. consultation with Miklós
 [miro board](https://miro.com/app/board/o9J_ld9aCN4=/)
 - the beginning of the storyline is great. I have to figure out the end and what I want to message.
+
+
+#### 23.11. consultation with ctech
+Things to check out:
+-non euklédeszi geometry
+[game to check out](http://antichamber-game.com/)
+Stanley Parabel
+Superliminal
+Megacuré
+hely szelleme
+explain well who the space is.
+
