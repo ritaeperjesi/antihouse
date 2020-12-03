@@ -99,3 +99,6 @@ Megacuré
 hely szelleme
 explain well who the space is.
 
+#### 03.12. 
+I downloaded a free gummybear model, which I'm not entirely happy with. 
+The Houdini engine doesn't work with my free houdini, so i'll have to check if the uni computer has the right houdini licence
