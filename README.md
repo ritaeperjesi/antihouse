@@ -91,7 +91,7 @@ https://www.youtube.com/watch?v=VnG2gOKV9dw
 
 #### 02.12. consultation with ctech
 Things to check out:
--non euklédeszi geometry
+-non euklédeszi geometry:Hyperbolica [game to check out](https://www.youtube.com/watch?v=EMKLeS-Uq_8&list=PLh9DXIT3m6N4qJK9GKQB3yk61tVe6qJvA)
 [game to check out](http://antichamber-game.com/)
 Stanley Parabel
 Superliminal
