@@ -109,6 +109,8 @@ I installed the right android platforms i think.
 I'm following this: file:///C:/Program%20Files/Unity/2019.2.10f1/Editor/Data/Documentation/en/Manual/VRDevices-Oculus.html and I need a file, but: 
 https://developer.oculus.com/manage/tools/osig-generator/ 
 here I can't get my devices number, because adb devices is not a command on my computer
+https://www.youtube.com/watch?v=_mwmWGE3fFY
+Solution: turn on developer mode on your phone in Oculus app
 
 Questions: houdini licence?
 
