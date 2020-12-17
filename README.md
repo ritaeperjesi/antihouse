@@ -114,3 +114,25 @@ Solution: turn on developer mode on your phone in Oculus app
 
 Questions: houdini licence?
 
+#### 8.12. 
+Unity workshop, a very fast sketch for the gummybear tower. Pierre suggested to randomize the directions of them. 
+![gummibeartower and basic room](http://url/to/img.png)
+
+#### 10.12. 
+consultation with Miklós.
+we discussed the meaning of the different visual styles and how far simplifying space can go. Our good friend, Lilla Turi is an illustrator, she is going very well in the world of abstraction. I have to experiment and I'll see what works and what doesn't in this weird 3d world.
+
+#### 17.12. 
+I started building a new scene with different textures. I have columns now, and I want to use a robot vacuum cleaner as the reference for the scale. 
+First I wanted to use a bird, so it could fly around the space which would indicate well the size of it, but a bird would have to be perfect in terms of moving and how it looks.
+A robot vacuum cleaner can be as stupid as it wants to be, I can code its movement, it's also working with scale and boundaries and it's a great companion in this story, as there is not much dirt in vr.
+![basic room](http://url/to/img.png)
+
+Consultation with Miklós:
+We discussed the possibilities with columns, that their scale can be any big, although there are some more usual ones, like the 2floor high ones. 
+I want to indicate scale with multiplying the number of columns and not making them bigger in themselves. 
+We talked about wallpapers, as they are funny and it is understandable to have them weirdly cut, but I can also cut weirdly columns, but that's less understandable.
+What defines scale in 2020 architecture? toilet, lavatory, bathtube, window (1.5x1.5m?), door. 
+I kind of like the idea of the magical growing space of a toilet as well, and tiles are giving a scale to everything, but as tiles are usually 15cm, that is too small already and it might lose its importance in bigger scales. 
+
+
