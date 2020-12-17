@@ -116,7 +116,8 @@ Questions: houdini licence?
 
 #### 8.12. 
 Unity workshop, a very fast sketch for the gummybear tower. Pierre suggested to randomize the directions of them. 
-![gummibeartower and basic room](http://url/to/img.png)
+![basic room](https://github.com/ritaeperjesi/antihouse/blob/master/img/basicspace1.jpg)
+![gummybear](https://github.com/ritaeperjesi/antihouse/blob/master/img/gumibeartower.jpg)
 
 #### 10.12. 
 consultation with Miklós.
@@ -126,7 +127,8 @@ we discussed the meaning of the different visual styles and how far simplifying 
 I started building a new scene with different textures. I have columns now, and I want to use a robot vacuum cleaner as the reference for the scale. 
 First I wanted to use a bird, so it could fly around the space which would indicate well the size of it, but a bird would have to be perfect in terms of moving and how it looks.
 A robot vacuum cleaner can be as stupid as it wants to be, I can code its movement, it's also working with scale and boundaries and it's a great companion in this story, as there is not much dirt in vr.
-![basic room](http://url/to/img.png)
+![basic room](https://github.com/ritaeperjesi/antihouse/blob/master/img/screenshots_stylesfirka.jpg)
+![basic room](https://github.com/ritaeperjesi/antihouse/blob/master/img/porszivo.jpg)
 
 Consultation with Miklós:
 We discussed the possibilities with columns, that their scale can be any big, although there are some more usual ones, like the 2floor high ones. 
