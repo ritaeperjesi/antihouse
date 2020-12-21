@@ -143,3 +143,4 @@ I started watching Daniel Shiffman's tutorials about Git and Github. It's time t
 Why is Houdini Engine good? [tutorial](https://www.sidefx.com/tutorials/houdini-engine-for-unity-session-sync/) 
 This looks really cool.
 This doesn't look like a simple thing, but maybe it is not that bad[Building a Simple Houdini Engine Exportertutorial](https://www.sidefx.com/tutorials/building-a-simple-houdini-engine-exporter/)
+This is a nice overview for Houdini with Unity  [3 videos](https://www.youtube.com/watch?v=nlCD7lJubes)
