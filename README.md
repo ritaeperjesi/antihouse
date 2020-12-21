@@ -137,4 +137,6 @@ We talked about wallpapers, as they are funny and it is understandable to have t
 What defines scale in 2020 architecture? toilet, lavatory, bathtube, window (1.5x1.5m?), door. 
 I kind of like the idea of the magical growing space of a toilet as well, and tiles are giving a scale to everything, but as tiles are usually 15cm, that is too small already and it might lose its importance in bigger scales. 
 
-
+#### 21.12.
+Why is Houdini Engine good? [tutorial](https://www.sidefx.com/tutorials/houdini-engine-for-unity-session-sync/) 
+This looks really cool.
