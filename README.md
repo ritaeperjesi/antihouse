@@ -138,9 +138,17 @@ What defines scale in 2020 architecture? toilet, lavatory, bathtube, window (1.5
 I kind of like the idea of the magical growing space of a toilet as well, and tiles are giving a scale to everything, but as tiles are usually 15cm, that is too small already and it might lose its importance in bigger scales. 
 
 #### 20.12.
-I started watching Daniel Shiffman's tutorials about Git and Github. It's time to finally learn this thing.
+I started watching Daniel Shiffman's [tutorials] (https://thecodingtrain.com/beginners/git-and-github/) about Git and Github. It's time to finally learn this thing.
 #### 21.12.
 Why is Houdini Engine good? [tutorial](https://www.sidefx.com/tutorials/houdini-engine-for-unity-session-sync/) 
 This looks really cool.
 This doesn't look like a simple thing, but maybe it is not that bad[Building a Simple Houdini Engine Exportertutorial](https://www.sidefx.com/tutorials/building-a-simple-houdini-engine-exporter/)
 This is a nice overview for Houdini with Unity  [3 videos](https://www.youtube.com/watch?v=nlCD7lJubes)
+
+#### 23.12.
+Consultation with Stefan about the Houdini-Unity workflow. I'll just try things in Unity first.
+
+#### 01.01.
+I started writing my voiceover in English. I watched one more Daniel Shiffman tutorial, I downloaded Githubdesktop. 
+
+
