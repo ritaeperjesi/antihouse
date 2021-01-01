@@ -149,6 +149,6 @@ This is a nice overview for Houdini with Unity  [3 videos](https://www.youtube.c
 Consultation with Stefan about the Houdini-Unity workflow. I'll just try things in Unity first.
 
 #### 01.01.
-I started writing my voiceover in English. I watched one more Daniel Shiffman tutorial, I downloaded Githubdesktop. 
+I started writing my voiceover in English. I watched one more Daniel Shiffman tutorial, I downloaded Githubdesktop and I installed it. Now I kind of can push my files from my desktop to github. 
 
 
