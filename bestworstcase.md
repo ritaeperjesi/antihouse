@@ -53,6 +53,9 @@
 - [ ] outside - outside world
 - [ ] being outside but being in a big cube
 - [ ] rain inside
+### elements
+- [ ] column forest 
+- [ ] architectural elements in a weird constellation
 ### outro
 - [ ] the space leaves you
 
