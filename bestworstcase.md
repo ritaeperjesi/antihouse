@@ -1,11 +1,11 @@
 # Worst Case
 ## storyline:
 ### scale
-[ ] intro - hi, i'm the space
-[ ] the space grows tall
-[ ] the tower becomes made of gummybears
-[ ] the space grows big
-[ ] the space becomes very small, and there is a space around you. 
+-[ ] intro - hi, i'm the space
+-[ ] the space grows tall
+-[ ] the tower becomes made of gummybears
+-[ ] the space grows big
+-[ ] the space becomes very small, and there is a space around you. 
 ## unity:
 [ ] walls are moving or elements are adding up
 [ ] you are able to move
