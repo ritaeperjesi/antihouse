@@ -1,12 +1,23 @@
 # Worst Case
+## CONCEPT:
+- [ ] coming up with concept
+- [ ] moodboard
+- [ ] architectural concept 
+- [ ] storyboard
+- [ ] copywriting
+- [ ] spatial design
+- [ ] visual style design
+- [ ] finding 3d elements
+- [ ] creating materials and textures
+
 ## STORYLINE:
 ### scale
-- [ ] intro - hi, i'm the space
-- [ ] the space grows tall
-- [ ] the tower becomes made of gummybears
-- [ ] the space grows big
-- [ ] the space becomes very small, and there is a space around you. 
-- [ ] outro - the space leaves you
+- [ ] intro - hi, i'm the space // basic scene + voiceover
+- [ ] the space grows tall //  basic scene + voiceover + walls growing in Unity
+- [ ] the tower becomes made of gummybears // basic scene + gummybear element + tower generation in Unity + voiceover
+- [ ] the space grows big //  basic scene + voiceover + walls growing in Unity
+- [ ] the space becomes very small, and there is a space around you. // change to other skybox? space walls shrinking in unity + voiceover
+- [ ] outro - the space leaves you // new empty scene (what is empty?) + voiceover
 ## UNITY:
 - [ ] walls are moving or elements are adding up
 - [ ] you are able to move
