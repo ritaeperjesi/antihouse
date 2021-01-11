@@ -49,26 +49,29 @@
 - [ ] the space grows big
 - [ ] the space becomes very small, and there is a space around you. 
 ### where are you in space
-- [ ] why to be on the ground
-- [ ] face down? not 90 degree turn
+- [ ] why to be on the ground //move everything in the scene a down. except the robot vacuum cleaner
+- [ ] face down? not 90 degree turn // turn every object in the scene. except the robot vacuum cleaner.
 ### space shape changing
-- [ ] cube to sphere
-- [ ] sphere to weird moving morph
+- [ ] cube to sphere // create a cube to sphere 3d animation in houdini and export it and implement it?. seems a bit tricky. also what happens to the columns? creating a texture or our space? or recreating the space in houdini and than sphere-ing it. 
+- [ ] sphere to weird moving morph // taking the audio reactive sphere from Simon's tutorial, and add it on the top of the previous space?
 ### walls
-- [ ] walls to lines
-- [ ] lines to particles
-- [ ] particles to fog
-- [ ] fog to nothing
+- [ ] walls to lines // change the texture of the wall to a seethrough line one.
+- [ ] lines to particles // particle system at the place of the walls
+- [ ] particles to fog // particles have smaller and smaller pieces and they disappear, fog in unity appears
+- [ ] fog to nothing // fog's density going to 0 and than turn it off
 ### inside and outside
-- [ ] inside - normal cube
-- [ ] outside - outside world
-- [ ] being outside but being in a big cube
-- [ ] rain inside
+- [ ] inside - normal cube 
+- [ ] outside - outside world // new skybox, 2 cubes from the outside
+- [ ] being outside but being in a big cube // big cube 
+- [ ] rain inside // hm. i'll look up a tutorial
+- [ ] upside down rain inside 
 ### elements
-- [ ] column forest 
-- [ ] architectural elements in a weird constellation
+- [ ] column forest  // instantiate many columns in unity
+- [ ] create a tree like leaning column animation in houdini. instentiate that at the same places of the previous ones.
+- [ ] architectural elements in a weird constellation // ideally this would be an array of elements, who are instantiated in the space in a random way. or i build it together once by hand. they have the shape of the orignial cube.
+- [ ] they "explode a bit", so they are flying in space, like in the david o'reilly experience.
 ### outro
-- [ ] the space leaves you
+- [ ] the space leaves you // normal space. falls to particles and blends away? 
 
 ## UNITY:
 - [ ] walls are moving or elements are adding up
