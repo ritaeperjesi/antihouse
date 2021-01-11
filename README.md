@@ -159,3 +159,7 @@ most details on the worst case scenario
 writing the short version of my voiceover.
 recording in a bad quality the voiceover. i have to buy AAA batteries to my diktafon. 
 And I'm not fully sure if i should be the voice. 
+
+#### 11.01.
+editing the voiceover. asking my sound friends about how to record in good quality and if my voice is suitable for being the voice of the space. finalizing my bestcase-worstcase list. discussing it with Stefan. showing my voiceover to a friend, she said i'm using too many "filling" expressions when i talk, which is true. i have to pay more attention to this. 
+
