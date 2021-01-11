@@ -16,7 +16,7 @@ Look, I'm so big, you don't even see me anymore! And I'm still growing! Meter by
 Hey, but I can also take a look at you from really close! Or you can take a look at me. Upsz, sorry, maybe this was too much. Maybe this way?
 
 outro:
-Do you know what is weird? That you have been always the one leaving me. I was there. Standing. Waiting. You come whenever you want, you go whenever you want. And you pretend like nothing happened. You don't even ask if it is ok for me. What about my schedule? My feelings? What if I'm with somebody else already? You know what, I had enough. Finally I can just leave. Thank you virtual reality. Bye. 
+Do you know what is weird? That you have been always the one leaving me. I was here. Standing. Waiting. You come whenever you want, you go whenever you want. And you pretend like nothing happened. You don't even ask if it is ok for me. What about my schedule? My feelings? What if I'm with somebody else already? You know what, I had enough. Finally I can just leave. Thank you virtual reality. Bye. 
 
 
 
