@@ -151,4 +151,11 @@ Consultation with Stefan about the Houdini-Unity workflow. I'll just try things 
 #### 01.01.
 I started writing my voiceover in English. I watched one more Daniel Shiffman tutorial, I downloaded Githubdesktop and I installed it. Now I kind of can push my files from my desktop to github. 
 
+#### 06.01.
+best case- worst case scenario list
 
+#### 10.01.
+most details on the worst case scenario
+writing the short version of my voiceover.
+recording in a bad quality the voiceover. i have to buy AAA batteries to my diktafon. 
+And I'm not fully sure if i should be the voice. 
