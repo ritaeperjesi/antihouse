@@ -48,10 +48,11 @@
 ## March
 ### week 1
 - [ ] works on my oculus
-### week 2 
 - [ ] record a screenplay
 - [ ] concept description 
 - [ ] pretty screenshots
 - [ ] my diary github md file
+### week 2 
+
 
 
