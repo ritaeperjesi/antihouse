@@ -9,7 +9,6 @@
 - [x] works on my oculus
 ## December
 - [x] architectural concept 
-- [x] copywriting Hungarian
 - [x] storyboard
 - [x] finding 3d elements 1.0
 - [x] you are able to move
