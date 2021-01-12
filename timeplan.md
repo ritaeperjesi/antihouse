@@ -4,45 +4,47 @@
 - [ ] coming up with concept
 - [ ] moodboard
 ## November
-- [ ] architectural concept 
-- [ ] storyboard
-- [ ] works on my oculus
+- [x] architectural concept 
+- [x] storyboard
+- [x] works on my oculus
 ## December
-- [ ] architectural concept 
-- [ ] copywriting
-- [ ] storyboard
-- [ ] finding 3d elements 1.0
-- [ ] you are able to move
+- [x] architectural concept 
+- [x] copywriting Hungarian
+- [x] storyboard
+- [x] finding 3d elements 1.0
+- [x] you are able to move
 ## January
 ### week 1
+- [x] copywriting short version
 ### week 2
+- [ ] copywriting long version
 ### week 3
-### week 4
-- [ ] copywriting
-- [ ] spatial design
-- [ ] voiceover recorded and implemented
+- [ ] voiceover recorded 
 - [ ] some effect sounds
 - [ ] basic background music (a song already existing)
+### week 4
+- [ ] intro - hi, i'm the space // basic scene + voiceover
+- [ ] voiceover implementation
 - [ ] finding 3d elements 2.0
 - [ ] creating materials and textures 1.0
-- [ ] intro - hi, i'm the space // basic scene + voiceover
 
 ## February
 ### week 1
-### week 2
-### week 3
-### week 4
+- [ ] the space grows tall //  basic scene + voiceover + walls growing in Unity
+- [ ] the tower becomes made of gummybears // basic scene + gummybear element + tower generation in Unity + voiceover
+- [ ] spatial design
 - [ ] visual style design
+### week 2
+- [ ] the space grows big //  basic scene + voiceover + walls growing in Unity
+- [ ] the space becomes very small, and there is a space around you. // change to other skybox? space walls shrinking in unity + voiceover
+### week 3
+- [ ] outro - the space leaves you // new empty scene (what is empty?) + voiceover
+### week 4
+- [ ] decent looking environment
+- [ ] it has a characteristic style
 - [ ] spatial design final
 - [ ] finding 3d elements final
 - [ ] creating materials and textures final
-- [ ] the space grows tall //  basic scene + voiceover + walls growing in Unity
-- [ ] the tower becomes made of gummybears // basic scene + gummybear element + tower generation in Unity + voiceover
-- [ ] the space grows big //  basic scene + voiceover + walls growing in Unity
-- [ ] the space becomes very small, and there is a space around you. // change to other skybox? space walls shrinking in unity + voiceover
-- [ ] outro - the space leaves you // new empty scene (what is empty?) + voiceover
-- [ ] decent looking environment
-- [ ] it has a characteristic style
 ## March
 ### week 1
 - [ ] works on my oculus
