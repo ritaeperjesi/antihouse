@@ -4,6 +4,7 @@
 This is an experience exploring the possibilities of creating spaces in virtual reality. Architecture is based on rules of reality: gravity, the strenght of materials, the size of humans and our ability of how we can move in spaces, all these aspects give limitations and shape our spaces. In virtual reality these rules can be modified easily. 100 meter high towers can be built from gummybears, we are able to teleport, materials and spaces are not contrapoints. What can we do with all these possibilities?
 
 ## Storyline
+[miro](https://miro.com/app/board/o9J_ld9aCN4=/)
 You are standing in a room, and a voice starts talking to you. It's the space around you, who got into the virtual reality, and is a bit confused what to do with this situation.
 She is trying to find her function and shape in this digital world, by going through tha usual architypes of spaces, their aspects, elements, and opening new horizonts. 
 The space is changing according to it's ideas. 
