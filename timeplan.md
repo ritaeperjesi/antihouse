@@ -1,8 +1,8 @@
 # Timeplan
 
 ## October
-- [ ] coming up with concept
-- [ ] moodboard
+- [x] coming up with concept
+- [x] moodboard
 ## November
 - [x] architectural concept 
 - [x] storyboard
