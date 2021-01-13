@@ -167,6 +167,6 @@ editing the voiceover. asking my sound friends about how to record in good quali
 #### 12.01.
 timeplan, best case - worst case list
 
-#### 12.01.
+#### 13.01.
 rewriting the concept
 
