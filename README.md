@@ -170,3 +170,6 @@ timeplan, best case - worst case list
 #### 13.01.
 rewriting the concept
 
+#### 21.01.
+working in unity: 
+- i made the ceiling go up with a script
