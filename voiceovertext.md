@@ -7,7 +7,7 @@ I guess you didn't even notice me at first. Don't worry, it is fine, I'm quite u
 
 So, you are hanging out in virtual reality, huh? Isn't it interesting? They have put me here as well. They said: ok space, you are free now. do whatever you want here! pff. I don't really know what they mean by free. I mean, what could I do here? 
 
-Should I be maybe a bit taller? Well, in the analogue world I didn't really have the chance. They were always coming up with stupid excuses... "Oh, you can't build such a high building made of wood. Oh, this structure is too expensive!" Well hello Burj Khalifa! Are you the highest building on Earth with your eighthundred-twenty-eight meters? I'm 829 now! And you know what I can make it even if I'm made of gummybears! 
+Should I be maybe a bit taller? Well, in the analogue world I didn't really have the chance. They were always coming up with stupid excuses... "Oh, you can't build such a high building made of wood. Oh, this structure is too expensive!" Well hello Burj Khalifa! Are you the highest building on Earth with your eighthundred-twenty-eight meters? I'm 829 now! And you know what I'm made of gummybears now, stable structure, ha! 
 
 All right, this was nice.
 But actually being high is not the only way to grow. I can be bigger. A lot bigger! Look mum no beams! 
