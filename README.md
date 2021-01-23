@@ -173,3 +173,7 @@ rewriting the concept
 #### 21.01.
 working in unity: 
 - i made the ceiling go up with a script
+
+
+#### 21.01.
+I recorded the short version voiceover with Juli's microphone in good sound quality, less good acting quality than before. 
