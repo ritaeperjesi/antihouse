@@ -177,3 +177,10 @@ working in unity:
 
 #### 21.01.
 I recorded the short version voiceover with Juli's microphone in good sound quality, less good acting quality than before. 
+
+#### 24.01.
+I played a bit with skybox textures, to find a friendlier atmoshphere. 
+![basic room](https://github.com/ritaeperjesi/antihouse/blob/master/img/unicorn.jpg)
+
+#### 25.01.
+I tried to see my world in VR, but something was weird, my gummybear tower was glitching, it was only good if I looked at a specific direction, it felt like maybe the gummybear tower is too much for it. :S
