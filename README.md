@@ -184,3 +184,4 @@ I played a bit with skybox textures, to find a friendlier atmoshphere.
 
 #### 25.01.
 I tried to see my world in VR, but something was weird, my gummybear tower was glitching, it was only good if I looked at a specific direction, it felt like maybe the gummybear tower is too much for it. :S
+Quick check-in with Stefan.
