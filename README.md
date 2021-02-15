@@ -190,5 +190,6 @@ Quick check-in with Stefan.
 I discussed my voiceover with an editor, he made some little corrections.
 
 #### 15.02
-Talking with Stefan. We went through my best case-worst case scenario and we made a plan, how to go on. He suggested to use Unity-time line. 
+Talking with Stefan. We went through my best case-worst case scenario and we made a plan, how to go on. He suggested to use Unity-time line and a tutorial series.
+https://www.youtube.com/user/Brackeys
 I made a plan for the next week in my calendar.
