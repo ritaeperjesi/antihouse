@@ -185,3 +185,10 @@ I played a bit with skybox textures, to find a friendlier atmoshphere.
 #### 25.01.
 I tried to see my world in VR, but something was weird, my gummybear tower was glitching, it was only good if I looked at a specific direction, it felt like maybe the gummybear tower is too much for it. :S
 Quick check-in with Stefan.
+
+#### 29.01.
+I discussed my voiceover with an editor, he made some little corrections.
+
+#### 15.02
+Talking with Stefan. We went through my best case-worst case scenario and we made a plan, how to go on. He suggested to use Unity-time line. 
+I made a plan for the next week in my calendar.
