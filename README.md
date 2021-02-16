@@ -193,3 +193,8 @@ I discussed my voiceover with an editor, he made some little corrections.
 Talking with Stefan. We went through my best case-worst case scenario and we made a plan, how to go on. He suggested to use Unity-time line and a tutorial series.
 https://www.youtube.com/user/Brackeys
 I made a plan for the next week in my calendar.
+
+#### 16.02
+I'm following this tutorial about Unity Timeline.
+It will probably make my life very easy and save me from a lot of coding, yesss! I already have one wall growing.
+https://www.youtube.com/watch?v=G_uBFM3YUF4
