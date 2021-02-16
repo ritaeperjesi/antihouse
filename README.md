@@ -198,3 +198,4 @@ I made a plan for the next week in my calendar.
 I'm following this tutorial about Unity Timeline.
 It will probably make my life very easy and save me from a lot of coding, yesss! I already have the walls growing and the ceiling moving. I made an attempt or the robot vacuum cleaner's moving as well, but i made a mistake, i'll redo it later. my computer crashed, so I decided to edit the sound first, so i have a timeline and I can make the unity timeline according to that. I edited the text considering Thomas's suggestions.
 https://www.youtube.com/watch?v=G_uBFM3YUF4
+I edited my previous voiceover recording. I noted down the times of the voiceover and when are the changes I need in the space that i can use for the unity timeline. 
