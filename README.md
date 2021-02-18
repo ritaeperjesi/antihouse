@@ -199,3 +199,6 @@ I'm following this tutorial about Unity Timeline.
 It will probably make my life very easy and save me from a lot of coding, yesss! I already have the walls growing and the ceiling moving. I made an attempt or the robot vacuum cleaner's moving as well, but i made a mistake, i'll redo it later. my computer crashed, so I decided to edit the sound first, so i have a timeline and I can make the unity timeline according to that. I edited the text considering Thomas's suggestions.
 https://www.youtube.com/watch?v=G_uBFM3YUF4
 I edited my previous voiceover recording. I noted down the times of the voiceover and when are the changes I need in the space that i can use for the unity timeline. 
+
+#### 18.02
+I wrote up the positions my robot vacuum cleaner should have, because it seemed like the timeline catches everything I do. It didn't really do what I wanted and it went through the walls, which actually looks very funny, I'm not sure if it is bad. I created a floor prefab, containting the columns, window and beams that I don't want to grow, and I added a few floors, which appear when the ceiling reaches their height. It doesn't look bad (except for the proportions of the beams), how it is growing, so maybe I will go with this direction of showing scale. 
