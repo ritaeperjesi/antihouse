@@ -203,3 +203,6 @@ I edited my previous voiceover recording. I noted down the times of the voiceove
 #### 18.02
 I wrote up the positions my robot vacuum cleaner should have, because it seemed like the timeline catches everything I do. It didn't really do what I wanted and it went through the walls, which actually looks very funny, I'm not sure if it is bad. I created a floor prefab, containting the columns, window and beams that I don't want to grow, and I added a few floors, which appear when the ceiling reaches their height. It doesn't look bad (except for the proportions of the beams), how it is growing, so maybe I will go with this direction of showing scale. The bad proportions of the beam gave me the idea to put those wires on the top of them, which are against pidgeons, they look really stupid in real life as well, but in this context it has some irony.
 ![beam](https://github.com/ritaeperjesi/antihouse/blob/master/img/gerenda.jpg)
+
+#### 20.02
+I downloaded Ableton to the uni laptop, I downloaded github desktop to the uni laptop and I uploaded my unity file to github, so if my computer is about to crash, things will be still fine. I'm looking for background music for the experience, Brian Eno: Music for Airports is the perfect background music for my head, it's hard to think about anything else. Unfortunately Juli is superbusy, so I can't ask her opinion.
