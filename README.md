@@ -205,4 +205,5 @@ I wrote up the positions my robot vacuum cleaner should have, because it seemed 
 ![beam](https://github.com/ritaeperjesi/antihouse/blob/master/img/gerenda.jpg)
 
 #### 20.02
-I downloaded Ableton to the uni laptop, I downloaded github desktop to the uni laptop and I uploaded my unity file to github, so if my computer is about to crash, things will be still fine. I'm looking for background music for the experience, Brian Eno: Music for Airports is the perfect background music for my head, it's hard to think about anything else. Unfortunately Juli is superbusy, so I can't ask her opinion.
+I downloaded Ableton to the uni laptop, I downloaded github desktop to the uni laptop and I uploaded my unity file to github, so if my computer is about to crash, things will be still fine. I'm looking for background music for the experience, Brian Eno: Music for Airports is the perfect background music for my head, it's hard to think about anything else. Unfortunately Juli is superbusy, so I can't ask her opinion. I added my voiceover to the scene, and I fell asleep watching this tutorial about Unity and sounds: https://www.youtube.com/watch?v=6OT43pvUyfY
+
