@@ -212,4 +212,4 @@ I recorded and cut the voiceover again with the edited text, it is more energeti
 
 
 #### 22.02
-We had a meeting with Stefan, he suggested to use the reverp effect in ableton for showing the roomsize, and i think i'd be able to do it. We also discussed how to go further, i'm excited. 
+We had a meeting with Stefan, he suggested to use the reverp effect in ableton for showing the roomsize, and i think i'd be able to do it. We also discussed how to go further, i'm excited. I quickly denoised in Premiere the voiceover. 
