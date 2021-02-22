@@ -207,3 +207,9 @@ I wrote up the positions my robot vacuum cleaner should have, because it seemed 
 #### 20.02
 I downloaded Ableton to the uni laptop, I downloaded github desktop to the uni laptop and I uploaded my unity file to github, so if my computer is about to crash, things will be still fine. I'm looking for background music for the experience, Brian Eno: Music for Airports is the perfect background music for my head, it's hard to think about anything else. Unfortunately Juli is superbusy, so I can't ask her opinion. I added my voiceover to the scene, and I fell asleep watching this tutorial about Unity and sounds: https://www.youtube.com/watch?v=6OT43pvUyfY
 
+#### 21.02
+I recorded and cut the voiceover again with the edited text, it is more energetic now and less depressed. I made the voiceover 3d in unity, which gives an interesting effect to it. I have to unnoise the recording in Premier. A friend showed me Ableton, and we imported my voiceover in it, and now I kind of know how to put effects on it.
+
+
+#### 22.02
+We had a meeting with Stefan, he suggested to use the reverp effect in ableton for showing the roomsize, and i think i'd be able to do it. We also discussed how to go further, i'm excited. 
