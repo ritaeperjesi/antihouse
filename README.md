@@ -213,3 +213,5 @@ I recorded and cut the voiceover again with the edited text, it is more energeti
 
 #### 22.02
 We had a meeting with Stefan, he suggested to use the reverp effect in ableton for showing the roomsize, and i think i'd be able to do it. We also discussed how to go further, i'm excited. I quickly denoised in Premiere the voiceover. 
+I tried my experience in VR. 
+Things that are needed: the robot vacuum cleaner is too big, I'm standing in a too low position. I should really implement the teleport option. Some beams and the window are flashing in a weird way which is annoying. The window is a bit too big. 
