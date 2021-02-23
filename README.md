@@ -215,3 +215,6 @@ I recorded and cut the voiceover again with the edited text, it is more energeti
 We had a meeting with Stefan, he suggested to use the reverp effect in ableton for showing the roomsize, and i think i'd be able to do it. We also discussed how to go further, i'm excited. I quickly denoised in Premiere the voiceover. 
 I tried my experience in VR. 
 Things that are needed: the robot vacuum cleaner is too big, I'm standing in a too low position. I should really implement the teleport option. Some beams and the window are flashing in a weird way which is annoying. The window is a bit too big. 
+
+#### 23.02
+I finished watching the Unity timeline tutorial, and I made my tower with the right parameters which worked fine and than I added the space growing in every direction, and somehow it mixed up all the parameters, so my tower didn't work anymore. and even when the space  was big, it didn't look so big, so i think i should use fog. 
