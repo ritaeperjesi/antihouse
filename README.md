@@ -221,4 +221,8 @@ I finished watching the Unity timeline tutorial, and I made my tower with the ri
 
 #### 24.02
 I watched a tutorial about how to switch scenes: https://www.youtube.com/watch?v=CE9VOZivb3I
+I changed the texture on the walls to a grandma style wallpaper, I find it very funny. I also like how the pattern is changing when the space is growing, it is giving a nice feeling of scale. The robot vacuum cleaner is still a bit too big. I tried it in vr.
+The beams and the window might be flickering as they might be 2 objects overlapping. 
+The space growing works really well, this is exactly the feeling I wanted, when the tower is growing, it could be a bit slower at the beginning though, because soon it doesn't matter so much anymore that it is growing. When it is growing bigger, it should be a lot bigger! 
+And I'm thinking about if I need the columns and the beams, they should behave some other way. And I should change the window. 
 
