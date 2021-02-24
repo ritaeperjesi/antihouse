@@ -218,3 +218,7 @@ Things that are needed: the robot vacuum cleaner is too big, I'm standing in a t
 
 #### 23.02
 I finished watching the Unity timeline tutorial, and I made my tower with the right parameters which worked fine and than I added the space growing in every direction, and somehow it mixed up all the parameters, so my tower didn't work anymore. and even when the space  was big, it didn't look so big, so i think i should use fog. 
+
+#### 24.02
+I watched a tutorial about how to switch scenes: https://www.youtube.com/watch?v=CE9VOZivb3I
+
