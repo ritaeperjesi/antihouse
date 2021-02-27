@@ -234,3 +234,8 @@ And I'm thinking about if I need the columns and the beams, they should behave s
 I showed Anna the current state of the VR experience. 
 I've been working on the gummybear tower script, I created a new scene for it. I've spent emberassingly a lot of time figuring out how to do the coordinates for the gummybear instantiating script. I made my Unity crash 2 times with the 800 meters high gummybear collections, so I started to work with 200 meter high ones, and probably you can't see what's going on higher, so i'll create a similar texture and just put 4 cubes on the higher floors. I also just put cubes now instead of the gummybears, as my computer wouldn't handle so complex shapes too well, so I'll try to model a lowpoly gummybear, or to do it with a texture. 
 ![bear](https://github.com/ritaeperjesi/antihouse/blob/master/img/gumimaci_inprocess1.jpg)
+
+#### 27.02
+I created an array of Gameobjects based on this link: https://answers.unity.com/questions/915759/how-to-instantiate-a-random-object-from-an-array.html
+So I can have different colours for the gummybears. They are instantiated randomly. I like the red gummybears the most, I might try to double the chances for them, but I'm not sure if it is fair with the other gummybears. Now I still have gummybrick-like prefabs instead of the gummybears. 
+![bear](https://github.com/ritaeperjesi/antihouse/blob/master/img/colorful.jpg)
