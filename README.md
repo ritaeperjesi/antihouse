@@ -224,9 +224,13 @@ I watched a tutorial about how to switch scenes: https://www.youtube.com/watch?v
 I changed the texture on the walls to a grandma style wallpaper, I find it very funny. I also like how the pattern is changing when the space is growing, it is giving a nice feeling of scale. The robot vacuum cleaner is still a bit too big. I tried it in vr.
 The beams and the window might be flickering as they might be 2 objects overlapping. 
 The space growing works really well, this is exactly the feeling I wanted, when the tower is growing, it could be a bit slower at the beginning though, because soon it doesn't matter so much anymore that it is growing. When it is growing bigger, it should be a lot bigger! 
-And I'm thinking about if I need the columns and the beams, they should behave some other way. And I should change the window. 
+And I'm thinking about if I need the columns and the beams, they should behave some other way. And I should change the window.
+![wallpaper](https://github.com/ritaeperjesi/antihouse/blob/master/img/wallpaper0.jpg)
+![wallpaper](https://github.com/ritaeperjesi/antihouse/blob/master/img/wallpaper1.jpg)
+![wallpaper](https://github.com/ritaeperjesi/antihouse/blob/master/img/wallpaper2.jpg)
+![wallpaper](https://github.com/ritaeperjesi/antihouse/blob/master/img/wallpaper3.jpg)
 
 #### 25.02
 I showed Anna the current state of the VR experience. 
 I've been working on the gummybear tower script, I created a new scene for it. I've spent emberassingly a lot of time figuring out how to do the coordinates for the gummybear instantiating script. I made my Unity crash 2 times with the 800 meters high gummybear collections, so I started to work with 200 meter high ones, and probably you can't see what's going on higher, so i'll create a similar texture and just put 4 cubes on the higher floors. I also just put cubes now instead of the gummybears, as my computer wouldn't handle so complex shapes too well, so I'll try to model a lowpoly gummybear, or to do it with a texture. 
-![beam](https://github.com/ritaeperjesi/antihouse/blob/master/img/gumimaci_inprocess1.jpg)
+![bear](https://github.com/ritaeperjesi/antihouse/blob/master/img/gumimaci_inprocess1.jpg)
