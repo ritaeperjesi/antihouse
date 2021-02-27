@@ -238,4 +238,5 @@ I've been working on the gummybear tower script, I created a new scene for it. I
 #### 27.02
 I created an array of Gameobjects based on this link: https://answers.unity.com/questions/915759/how-to-instantiate-a-random-object-from-an-array.html
 So I can have different colours for the gummybears. They are instantiated randomly. I like the red gummybears the most, I might try to double the chances for them, but I'm not sure if it is fair with the other gummybears. Now I still have gummybrick-like prefabs instead of the gummybears. 
+This was the first time, that I wasn't frustrated about coding, now I'm getting comfortable with creating public variables(?), so I can change things in the unity interface and not in code, and I knew that I need an array (which in my head is still a bit of a blurry thing on the execution side), and I just googled exactly what I wanted and I understood what I need from what they write and what I don't.  
 ![bear](https://github.com/ritaeperjesi/antihouse/blob/master/img/colorful.jpg)
