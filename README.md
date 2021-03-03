@@ -257,5 +257,6 @@ I cut the sound again to each scenes parts.
 I made my wallpaper seamless, and I changed the skybox to a lighter one, so it's a happier place. I still hate how it looks like, and I've been looking up textures as inspiration, I remembered an Ai Weiwei exhibition I saw with these contemporary kitchy golden textures, and that's a good inspiration. I feel like my brain is stuck on this topic, eventhough this is where I'm the most competent here.
 ![bear](https://github.com/ritaeperjesi/antihouse/blob/master/img/gumimacitorony_0303.jpg)
 ![bear](https://github.com/ritaeperjesi/antihouse/blob/master/img/gumimacitorony_0303b.jpg)
-![bear](https://github.com/ritaeperjesi/antihouse/blob/master/img/seamless.jpg)
+![wallpaper](https://github.com/ritaeperjesi/antihouse/blob/master/img/seamless.jpg)
+![wallpaper](https://github.com/ritaeperjesi/antihouse/blob/master/img/aiwei.jpg)
 
