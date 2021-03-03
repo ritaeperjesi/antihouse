@@ -255,6 +255,7 @@ I had consultation with Stefan. We discussed my gummybear problem, he suggested 
 I decided to orgnaize my project better, and use a different Unity scene for each of my scenes, so in the future it is easier to add the new scenes for the next episodes, and if the animations are shorter, it is easier to keep everything in order. 
 I cut the sound again to each scenes parts. 
 I made my wallpaper seamless, and I changed the skybox to a lighter one, so it's a happier place. I still hate how it looks like, and I've been looking up textures as inspiration, I remembered an Ai Weiwei exhibition I saw with these contemporary kitchy golden textures, and that's a good inspiration. I feel like my brain is stuck on this topic, eventhough this is where I'm the most competent here.
+I looked up the spatial sound effects in ableton, in the Reverb folder, there are really cool ones for all kinds of spaces, for example the Spacious one is a good start. My audio quality is not as good as I thought (I listened to it on headphones now). 
 ![bear](https://github.com/ritaeperjesi/antihouse/blob/master/img/gumimacitorony_0303.jpg)
 ![bear](https://github.com/ritaeperjesi/antihouse/blob/master/img/gumimacitorony_0303b.jpg)
 ![wallpaper](https://github.com/ritaeperjesi/antihouse/blob/master/img/seamless.jpg)
