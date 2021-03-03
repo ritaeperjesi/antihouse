@@ -253,5 +253,6 @@ But here are some creepy gummybear pictures.
 I watched this blender tutorial, for the gummybear modeling: https://www.youtube.com/watch?v=RaT-uG5wgUw 
 I had consultation with Stefan. We discussed my gummybear problem, he suggested to have 3 kinds of gummy bear representations, the closer ones are higher poly, the middle ones are lower poly, and the distant ones are just a picture on a flat object. He suggested to use the decimate modifier in blender to create less polygons on my already existing gummybears. https://www.youtube.com/watch?v=JqoIGxUrLbw I followed this tutorial, and it worked, my computer is not crashing anymore from my gummybear tower. I still want to model my own bear later, but maybe now it is not essential.
 I decided to orgnaize my project better, and use a different Unity scene for each of my scenes, so in the future it is easier to add the new scenes for the next episodes, and if the animations are shorter, it is easier to keep everything in order. 
+I cut the sound again to each scenes parts. 
 ![bear](https://github.com/ritaeperjesi/antihouse/blob/master/img/gumimacitorony_0303.jpg)
 ![bear](https://github.com/ritaeperjesi/antihouse/blob/master/img/gumimacitorony_0303b.jpg)
