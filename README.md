@@ -261,3 +261,10 @@ I looked up the spatial sound effects in ableton, in the Reverb folder, there ar
 ![wallpaper](https://github.com/ritaeperjesi/antihouse/blob/master/img/seamless.jpg)
 ![wallpaper](https://github.com/ritaeperjesi/antihouse/blob/master/img/aiwei.jpg)
 
+#### 04.03
+I created my scene-switching code based on this tutorial:
+https://www.youtube.com/watch?v=LjFt-iScdfI
+and this forum thingy
+https://forum.unity.com/threads/how-do-i-calculate-accurately-time-passed-in-seconds-for-c.191434/
+I created all my scenes now. 
+I talked about my visual struggle with my architect-illustrator friend, Lilla, she had some nice suggestions. 
