@@ -261,6 +261,7 @@ I looked up the spatial sound effects in ableton, in the Reverb folder, there ar
 ![wallpaper](https://github.com/ritaeperjesi/antihouse/blob/master/img/seamless.jpg)
 ![wallpaper](https://github.com/ritaeperjesi/antihouse/blob/master/img/aiwei.jpg)
 
+
 #### 05.03
 I created my scene-switching code based on this tutorial:
 https://www.youtube.com/watch?v=LjFt-iScdfI
@@ -275,4 +276,7 @@ She also showed me how to put a button in there, so I could restart my scenes fr
 I worked on the animations, but it turned out that I only made one animator thing, so when i did the animations for an other scene, i lost my previous work, which was stupid, but now i know. 
 Denise also suggested to have a better organization in my Unity, which makes sense, I already felt superorganized by having folders for different things (yeah, I'm really messy), but she showed me how to organize my gameobjects in the scenes. We also discussed my github desktop problem, which was just that I should have closed Unity, before trying to upload the files. :S 
 
+#### 06.03
+I tried to put the spatial effects on my sound in Ableton, but I forgot most of the things how to import them. I found how to import my sound files, with this tutorial:
+https://www.youtube.com/watch?v=uYH-iZjOHmU and I've spent quite some time to find how to see my effects in the same view, so I can modify them with keyframes in time, but I couldn't find it, as I think I'm missing some keywords for proper googling. 
 
