@@ -282,5 +282,6 @@ https://www.youtube.com/watch?v=uYH-iZjOHmU and I've spent quite some time to fi
 I've put a Thonet chair in my scene, by accident it was too big when I imported it, but I find it very funny as well, maybe it could be a thing later.
 I started to organize my scenes according to Denise's advices, and rename things from Hungarian to English, which is a bit sad, as it gives me comfort and joy to have some familiar words in the not too friendly environments.
 I also decided to reposition all my elements, which might be time consuming now, but it makes the calculations easier. I was just organically trying out and positioning things from the beginning, and they stayed like that, which might not hve been superclever.
+I also decided to add a fourth wall and remove the window for now, I think it is interesting to be in a space where you can't even imagine how you got to. 
 ![wallpaper](https://github.com/ritaeperjesi/antihouse/blob/master/img/thonet.jpg)
 ![wallpaper](https://github.com/ritaeperjesi/antihouse/blob/master/img/thonet2.jpg)
