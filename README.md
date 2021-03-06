@@ -279,4 +279,8 @@ Denise also suggested to have a better organization in my Unity, which makes sen
 #### 06.03
 I tried to put the spatial effects on my sound in Ableton, but I forgot most of the things how to import them. I found how to import my sound files, with this tutorial:
 https://www.youtube.com/watch?v=uYH-iZjOHmU and I've spent quite some time to find how to see my effects in the same view, so I can modify them with keyframes in time, but I couldn't find it, as I think I'm missing some keywords for proper googling. 
-
+I've put a Thonet chair in my scene, by accident it was too big when I imported it, but I find it very funny as well, maybe it could be a thing later.
+I started to organize my scenes according to Denise's advices, and rename things from Hungarian to English, which is a bit sad, as it gives me comfort and joy to have some familiar words in the not too friendly environments.
+I also decided to reposition all my elements, which might be time consuming now, but it makes the calculations easier. I was just organically trying out and positioning things from the beginning, and they stayed like that, which might not hve been superclever.
+![wallpaper](https://github.com/ritaeperjesi/antihouse/blob/master/img/thonet.jpg)
+![wallpaper](https://github.com/ritaeperjesi/antihouse/blob/master/img/thonet2.jpg)
