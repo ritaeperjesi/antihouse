@@ -285,3 +285,11 @@ I also decided to reposition all my elements, which might be time consuming now,
 I also decided to add a fourth wall and remove the window for now, I think it is interesting to be in a space where you can't even imagine how you got to. 
 ![wallpaper](https://github.com/ritaeperjesi/antihouse/blob/master/img/thonet.jpg)
 ![wallpaper](https://github.com/ritaeperjesi/antihouse/blob/master/img/thonet2.jpg)
+
+#### 07.03
+In the morning I was looking for a button an ableton, which does what I wanted, but I couldn't find it.
+In the afternoon I've spent more than an hour trying to understand how the Unity Timeline is working, because it jumped to the end of my animation immediately. After all the research and talking to Denise I realised that I overlooked the time sequence, and what I thought to be a minute was a second, so my animation was perfectly working, just I used the wrong timing. I made the animation of the tower scene, and it is working well. 
+I realised that my gummybears are funny ,but they are not in the right scale, and scale is the only important thing here, so if I was using gummybears on their proper scale, my computer couldn't handle it, so I created a seamless gummybear texture, and I made my wall using it. I want to have more 3d on it, probably painted with Substance painter, but not for now, I guess. 
+I tried to create the other animations fast too, but this Unity timeline is a pain in the ass, never doing what i want, and when i try to change 1 parameter, everything gets messed up, so I usually just redo them, but it creates very random bugs. 
+
+
