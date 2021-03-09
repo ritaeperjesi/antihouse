@@ -304,3 +304,9 @@ My friend also showed me the buttons I couldnt find in Ableton, so I could add m
 I am not sure about using a background music, I like that it is like being in somebodys head now. At the same time my approach might be too minimalist and it should be more entertaining.
 ![ableton](https://github.com/ritaeperjesi/antihouse/blob/master/img/abletonscreenshot.jpg)
 ![ableton](https://github.com/ritaeperjesi/antihouse/blob/master/img/abletonscreenshot2.jpg)
+
+
+#### 09.03
+I've been working on the space goes small scene, I created a prefab from the whole space, I wonder why I didn't think about this earlier. :S 
+I was constantly trying it in VR, again I mixed up some parameters, so it wsa easier like this, and I had a lot of fun, looking at my chair and my little space from all directions. I created a red gradient skybox for my outside of the space world, and I really like how it looks with the white chair, and the yellow space. The little space is so ridiculos. Now it stops at 0.05, so it is kind of like a box you can put your head in. Unfortunately when you put your head in it, it cuts itself a bit, but it is an interesting thing in a way. Now I have to take a bit of break, because being in every scale and position every 2 minutes made me dizzy. But I laughed a lot.
+![small](https://github.com/ritaeperjesi/antihouse/blob/master/img/small.jpg)
