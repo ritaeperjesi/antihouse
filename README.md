@@ -311,3 +311,6 @@ I've been working on the space goes small scene, I created a prefab from the who
 I was constantly trying it in VR, again I mixed up some parameters, so it wsa easier like this, and I had a lot of fun, looking at my chair and my little space from all directions. I created a red gradient skybox for my outside of the space world, and I really like how it looks with the white chair, and the yellow space. The little space is so ridiculos. Now it stops at 0.05, so it is kind of like a box you can put your head in. Unfortunately when you put your head in it, it cuts itself a bit, but it is an interesting thing in a way. Now I have to take a bit of break, because being in every scale and position every 2 minutes made me dizzy. But I laughed a lot.
 ![small](https://github.com/ritaeperjesi/antihouse/blob/master/img/small.jpg)
 ![small](https://github.com/ritaeperjesi/antihouse/blob/master/img/small2.jpg)
+I've been thinking how to do the breakup scene, and I first wanted to make the animation from the small scene to the last scene, and by accident I've put myself outside of the space, and I realised that it is a perfect way to shut out the viewer.
+![breakup](https://github.com/ritaeperjesi/antihouse/blob/master/img/breakup.jpg)
+![breakup](https://github.com/ritaeperjesi/antihouse/blob/master/img/breakup2.jpg)
