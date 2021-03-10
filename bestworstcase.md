@@ -1,41 +1,41 @@
 # Worst Case
 ## CONCEPT:
-- [ ] coming up with concept
-- [ ] moodboard
-- [ ] architectural concept 
-- [ ] storyboard
-- [ ] copywriting
-- [ ] spatial design
-- [ ] visual style design
-- [ ] finding 3d elements
-- [ ] creating materials and textures
+- [x] coming up with concept
+- [x] moodboard
+- [x] architectural concept 
+- [x] storyboard
+- [x] copywriting
+- [x] spatial design
+- [x] visual style design
+- [x] finding 3d elements
+- [x] creating materials and textures
 
 ## STORYLINE:
 ### playing with the scale 
-- [ ] intro - hi, i'm the space // basic scene + voiceover
-- [ ] the space grows tall //  basic scene + voiceover + walls growing in Unity
+- [x] intro - hi, i'm the space // basic scene + voiceover
+- [x] the space grows tall //  basic scene + voiceover + walls growing in Unity
 - [ ] the tower becomes made of gummybears // basic scene + gummybear element + tower generation in Unity + voiceover
-- [ ] the space grows big //  basic scene + voiceover + walls growing in Unity
-- [ ] the space becomes very small, and there is a space around you. // change to other skybox? space walls shrinking in unity + voiceover
+- [x] the space grows big //  basic scene + voiceover + walls growing in Unity
+- [x] the space becomes very small, and there is a space around you. // change to other skybox? space walls shrinking in unity + voiceover
 - [ ] outro - the space leaves you // new empty scene (what is empty?) + voiceover
 ## UNITY:
-- [ ] walls are moving or elements are adding up
-- [ ] you are able to move
+- [x] walls are moving or elements are adding up
+- [x] you are able to move
 
 ## VISUAL DETAILS:
-- [ ] decent looking environment
-- [ ] it has a characteristic style
+- [x] decent looking environment
+- [x] it has a characteristic style
 ## SOUND:
-- [ ] voiceover recorded and implemented
-- [ ] some effect sounds
-- [ ] basic background music (a song already existing)
+- [x] voiceover recorded and implemented
+- [x] some effect sounds
+- [x] basic background music (a song already existing)
 ## EXPORT TO VR:
-- [ ] works on my oculus
+- [x] works on my oculus
 ## DOCUMENTATION:
 - [ ] record a screenplay
 - [ ] concept description 
 - [ ] pretty screenshots
-- [ ] my diary github md file
+- [x] my diary github md file
 
 
 
