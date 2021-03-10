@@ -325,4 +325,6 @@ https://uploadvr.com/sideloading-quest-how-to/#:~:text=All%20you%20need%20to%20d
 I'm not sure if it is easier than my original setup, this also requires almost as much downloading. :S
 So i started to look into how to record a 360 video from my project, I followed this tutorial,https://www.alanzucconi.com/2020/05/19/360-video-unity/  I found 2 little mistakes, that I could correct, but I got lost with the Cubemap it was asking for, that I should give in advance. I downloaded a cubemap generator, but I found another tutorial, which i didn't like first, as no one was talking in it, but I'll try that way too, and if it's not working, I come back here. It says no coding, and I looked up the cinemachine it's using and it had a nice website, I'm too easy to manipulate with design.
 https://www.youtube.com/watch?v=0e6A1t04KPY
-
+I tried to look up cinemachine in my asset store, but it wasn't there, what looked similar was a Free Sample thing which requires a higher Unity version than I have. From the Terrain project I learned that these different versions of Unity can create big problems, so I'm not going to switch 2 days before the deadline to another version, so I'll try to export a normal computer build, the manual on how I put things on Oculus, and a screenrecording of my experience for now. But I want to export it to googlecardboard later, so I can show it to Miklós and we can further discuss the project.
+This also seemed like a not unuseful article.
+https://blogs.unity3d.com/2018/01/26/stereo-360-image-and-video-capture/
