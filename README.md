@@ -329,3 +329,6 @@ I tried to look up cinemachine in my asset store, but it wasn't there, what look
 These also seemed like as not unuseful articles.
 https://evereal.com/tutorials/how-to-capture-video-in-unity-cinemachine
 https://blogs.unity3d.com/2018/01/26/stereo-360-image-and-video-capture/
+Funny incidents happened, when I mixed up what is Rigid body and what is a collider. I wanted to make sure that the viewer stays in the space, for which I need a collider, but I gave a rigid body instead, and I could very easily push my space to fly away. I decided to use the space prefab in the other scenes as well, because without the whole space being one thing, the columns and the walls got into a conflict, which ended up with my walls jumping away from my columns, it looked hilarious how it was moving. 
+So for sure I want to implement a scene where the users can mess around with the elements.
+![jump away](https://github.com/ritaeperjesi/antihouse/blob/master/img/elugrott.jpg)
