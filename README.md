@@ -322,3 +322,7 @@ I modified some animations based on the new sounds. I like hanging out in my spa
 I'm trying to find the best way to submit my project, and I'm a bit confused about Builds in Unity. 
 I have my system here, and now it is easy to watch what I do on my Quest, but I had to install a lot of things for that in advance, and I don't know if you want to install that too. I found this article, about how to sideload projects that are not certified by Oculus (and my project is not certified by oculus).
 https://uploadvr.com/sideloading-quest-how-to/#:~:text=All%20you%20need%20to%20do,of%20the%20official%20SideQuest%20apps.
+I'm not sure if it is easier than my original setup, this also requires almost as much downloading. :S
+So i started to look into how to record a 360 video from my project, I followed this tutorial,https://www.alanzucconi.com/2020/05/19/360-video-unity/  I found 2 little mistakes, that I could correct, but I got lost with the Cubemap it was asking for, that I should give in advance. I downloaded a cubemap generator, but I found another tutorial, which i didn't like first, as no one was talking in it, but I'll try that way too, and if it's not working, I come back here. It says no coding, and I looked up the cinemachine it's using and it had a nice website, I'm too easy to manipulate with design.
+https://www.youtube.com/watch?v=0e6A1t04KPY
+
