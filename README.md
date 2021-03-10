@@ -317,3 +317,8 @@ I wasn't sure if i want to use any music now, but I found another Brian Eno song
 I modified some animations based on the new sounds. I like hanging out in my space more and more.
 ![breakup](https://github.com/ritaeperjesi/antihouse/blob/master/img/breakup.jpg)
 ![breakup](https://github.com/ritaeperjesi/antihouse/blob/master/img/breakup2.jpg)
+
+#### 10.03
+I'm trying to find the best way to submit my project, and I'm a bit confused about Builds in Unity. 
+I have my system here, and now it is easy to watch what I do on my Quest, but I had to install a lot of things for that in advance, and I don't know if you want to install that too. I found this article, about how to sideload projects that are not certified by Oculus (and my project is not certified by oculus).
+https://uploadvr.com/sideloading-quest-how-to/#:~:text=All%20you%20need%20to%20do,of%20the%20official%20SideQuest%20apps.
