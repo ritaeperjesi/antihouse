@@ -334,3 +334,6 @@ So for sure I want to implement a scene where the users can mess around with the
 ![jump away](https://github.com/ritaeperjesi/antihouse/blob/master/img/elugrott.jpg)
 I reorganized my intro scene. I've cut my column in parts in Blender based on this tutorial: https://www.youtube.com/watch?v=gALWWh7lxn8
 I've added it's parts to the tower scene, so my column can grow hopefully nicely with the tower, while it's legs can stay where they are.
+I really like the robot vacuum cleaner, I think it gives this ambient time thing that makes the space more alive, it's so funny to see him being lost.
+![grow](https://github.com/ritaeperjesi/antihouse/blob/master/img/grow1.jpg)
+![grow](https://github.com/ritaeperjesi/antihouse/blob/master/img/grow2.jpg)
