@@ -6,7 +6,7 @@ This is my submission!
 My presentation is here: https://docs.google.com/presentation/d/1W79SsjN6jePCzkNWx242nxxzwqsshYgyr_rb-h1Ru-A/edit?usp=sharing
 
 ## DOCUMENTATION
-It's the readme file in the antihouse folder
+It's the readme file in the antihouse folder: https://github.com/ritaeperjesi/antihouse/blob/master/README.md
 
 ## HOW TO VIEW MY PROJECT
 ### IDEAL SCENARIO: Windows laptop + Oculus Quest. 
