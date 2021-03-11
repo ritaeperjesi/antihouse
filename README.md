@@ -334,6 +334,11 @@ So for sure I want to implement a scene where the users can mess around with the
 ![jump away](https://github.com/ritaeperjesi/antihouse/blob/master/img/elugrott.jpg)
 I reorganized my intro scene. I've cut my column in parts in Blender based on this tutorial: https://www.youtube.com/watch?v=gALWWh7lxn8
 I've added it's parts to the tower scene, so my column can grow hopefully nicely with the tower, while it's legs can stay where they are.
-I really like the robot vacuum cleaner, I think it gives this ambient time thing that makes the space more alive, it's so funny to see him being lost.
+I really like the robot vacuum cleaner, I think it gives this ambient time thing that makes the space more alive, it's so funny to see him being lost. And I always keep losing it's animation, so now I'm paying less attention to imitate a real vacuum cleaner logic in its movement, so it looks even more lost here.
 ![grow](https://github.com/ritaeperjesi/antihouse/blob/master/img/grow1.jpg)
 ![grow](https://github.com/ritaeperjesi/antihouse/blob/master/img/grow2.jpg)
+I tried to remake the gummybear scene with real gummybears, not just with the texture. I tried to make it even more lowpoly, but it was losing it's shape, so I bought a gummybear model for 3 dollars, which has a better and more real gummybear shape, and it's easier to make it lowpoly. I created a prefab from it, I gave it the mobile version shaders, I created a gummybear wall prefab, and I made a gummybear floor prefab from it. I made a lower poly bear too, and I did the same, and my computer and the oculus seem to be handling these bears a lot better. Now i have 2 floors of the cool bears, 4 floors of the lowpoly bears. I screenshotted the bear texture, and I created walls for the upper parts with that texture, it is not working amazingly, so I'm trying to hide the change with a red fog. 
+I'm not sure about the scale problem, conceptually I like the small scale bears more, but as a space, the big gummybear tower is prettier. 
+![gumi](https://github.com/ritaeperjesi/antihouse/blob/master/img/ujgumi.jpg)
+![gumi](https://github.com/ritaeperjesi/antihouse/blob/master/img/gumimaci_toronyyy.jpg)
+![gumi](https://github.com/ritaeperjesi/antihouse/blob/master/img/gumimaci_fal.jpg)
