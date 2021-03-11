@@ -342,3 +342,13 @@ I'm not sure about the scale problem, conceptually I like the small scale bears 
 ![gumi](https://github.com/ritaeperjesi/antihouse/blob/master/img/ujgumi.jpg)
 ![gumi](https://github.com/ritaeperjesi/antihouse/blob/master/img/gumimaci_toronyyyy.jpg)
 ![gumi](https://github.com/ritaeperjesi/antihouse/blob/master/img/gumimaci_fal.jpg)
+
+#### 11.03
+I made my presentation material in the morning. I tried to make a plan on how to export everything, and what are all the options to show my project.
+I've been correcting my scenes, I recreated the Big space scene with my space prefab, it looks a lot better like this. I also like that now 1 wall is still visible, and you see how huge the wallpaper texture became.
+I created a new animation for the breakup scene, I had the idea that first you are left outside from the space, and than it rolls away. I manually gave teh keyframes to it, I find it very funny, that it's kind of like a balloon without helium, very light, sometimes flying a bit, but falls down to the earth soon. I'm not fully sure about the very end, now you are in the red space with the chair and the vacuum cleaner, I don't know if it should go fully dark, or less space-y and just purely red. 
+![bye](https://github.com/ritaeperjesi/antihouse/blob/master/img/off.jpg)
+I've spent a lot of time with these animations, and a lot of time trying to bring consistency to my position in each scenes, it is a lot harder somehow than it should be. 
+It would be a nicer experience if the jumps between the scenes are smoother, this is something to improve in the future. 
+I went through all my scenes and I tried to find all the little bugs and correct them, and now I decided that what is there, stays there for now.
+
