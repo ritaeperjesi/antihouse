@@ -340,5 +340,5 @@ I really like the robot vacuum cleaner, I think it gives this ambient time thing
 I tried to remake the gummybear scene with real gummybears, not just with the texture. I tried to make it even more lowpoly, but it was losing it's shape, so I bought a gummybear model for 3 dollars, which has a better and more real gummybear shape, and it's easier to make it lowpoly. I created a prefab from it, I gave it the mobile version shaders, I created a gummybear wall prefab, and I made a gummybear floor prefab from it. I made a lower poly bear too, and I did the same, and my computer and the oculus seem to be handling these bears a lot better. Now i have 2 floors of the cool bears, 4 floors of the lowpoly bears. I screenshotted the bear texture, and I created walls for the upper parts with that texture, it is not working amazingly, so I'm trying to hide the change with a red fog. 
 I'm not sure about the scale problem, conceptually I like the small scale bears more, but as a space, the big gummybear tower is prettier. 
 ![gumi](https://github.com/ritaeperjesi/antihouse/blob/master/img/ujgumi.jpg)
-![gumi](https://github.com/ritaeperjesi/antihouse/blob/master/img/gumimaci_toronyyy.jpg)
+![gumi](https://github.com/ritaeperjesi/antihouse/blob/master/img/gumimaci_toronyyyy.jpg)
 ![gumi](https://github.com/ritaeperjesi/antihouse/blob/master/img/gumimaci_fal.jpg)
