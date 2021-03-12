@@ -35,6 +35,7 @@ I'm using:
   Don't let outdated android things stop you. 
  ![android](https://github.com/ritaeperjesi/antihouse/blob/master/img/androidoutdated.jpg)
  Hopefully now you can watch the experience in your Oculus. 
+ If something is not good, I'd check the tutorial's Build settings if it is the same. 
  
  Some little things: You can't teleport or do anything with the controllers in the experience so far, you are just a viewer. And I developed it in my room, so I was mostly in one position standing, feel free to walk around, but I don't know how things will be experienced that way.
   
