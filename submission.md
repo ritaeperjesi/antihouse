@@ -15,6 +15,7 @@ This is where my Unity project is: https://github.com/ritaeperjesi/git_antihouse
 ## HOW TO VIEW MY PROJECT
 ### COMFORTABLE SCENARIO: Internet
 I recorded a gameplay. You can watch it here. 
+https://www.youtube.com/watch?v=V2h8rWPcsTE
 
 ### LESS IDEAL SCENARIO: Windows laptop
 In the Builds/windows folder you can find the antihous_win.exe, which you can play. You can walk as in all the usual computer games and you can look around with moving the mouse. You are missing out from the spatial experience, which is the point of the whole project, but you can see what I tried to do at least. 
@@ -36,9 +37,12 @@ I'm using:
  If you follow it until "Create a new Unity project", we have the same environment, and if you open my Unity project hopefully the rest is going to be there.
  Turn on developer mode on your phone in Oculus app, that is also important.
   When you have my project open, and your Oculus Quest plugged into the computer, just check the "Launch your project onto your Oculus Quest" part in the very same tutorial.
- ![buildingsettings](https://github.com/ritaeperjesi/antihouse/blob/master/img/buildsettings.jpg)
+ ![buildingsettings](https://github.com/ritaeperjesi/antihouse/blob/master/img/buildsettings2.jpg)
+ 
   Don't let outdated android things stop you. 
+  
  ![android](https://github.com/ritaeperjesi/antihouse/blob/master/img/androidoutdated.jpg)
+ 
  Hopefully now you can watch the experience in your Oculus. 
  If something is not good, I'd check the tutorial's Build settings if it is the same. 
  
