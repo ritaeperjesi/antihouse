@@ -17,7 +17,7 @@ This is where my Unity project is: https://github.com/ritaeperjesi/git_antihouse
 I recorded a gameplay. You can watch it here. 
 
 ### LESS IDEAL SCENARIO: Windows laptop
-Unity build? 
+In the Builds/windows folder you can find the antihous_win.exe, which you can play. You can walk as in all the usual computer games and you can look around with moving the mouse. You are missing out from the spatial experience, which is the point of the whole project, but you can see what I tried to do at least. 
 
 ### IDEAL SCENARIO: Windows laptop + Oculus Quest. 
 Actually this is still not superideal for you, as my project is not published to the Oculus Quest, so uploading something to it requires extra things to download.
