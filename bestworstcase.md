@@ -14,10 +14,10 @@
 ### playing with the scale 
 - [x] intro - hi, i'm the space // basic scene + voiceover
 - [x] the space grows tall //  basic scene + voiceover + walls growing in Unity
-- [ ] the tower becomes made of gummybears // basic scene + gummybear element + tower generation in Unity + voiceover
+- [x] the tower becomes made of gummybears // basic scene + gummybear element + tower generation in Unity + voiceover
 - [x] the space grows big //  basic scene + voiceover + walls growing in Unity
 - [x] the space becomes very small, and there is a space around you. // change to other skybox? space walls shrinking in unity + voiceover
-- [ ] outro - the space leaves you // new empty scene (what is empty?) + voiceover
+- [x] outro - the space leaves you // new empty scene (what is empty?) + voiceover
 ## UNITY:
 - [x] walls are moving or elements are adding up
 - [x] you are able to move
@@ -34,7 +34,7 @@
 ## DOCUMENTATION:
 - [ ] record a screenplay
 - [ ] concept description 
-- [ ] pretty screenshots
+- [x] pretty screenshots
 - [x] my diary github md file
 
 
