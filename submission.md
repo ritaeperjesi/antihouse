@@ -13,7 +13,7 @@ This is my repository of the project with more documents: https://github.com/rit
 This is where my Unity project is: https://github.com/ritaeperjesi/git_antihouse
 
 ## TRAILER
-https://www.youtube.com/watch?v=5z899Wx86Ts
+https://www.youtube.com/watch?v=2VPHsKqgDm0
 
 ## HOW TO VIEW MY PROJECT
 ### COMFORTABLE SCENARIO: Internet
