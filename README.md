@@ -42,7 +42,7 @@ The fisherman's tale VR [a link](https://afishermanstale-game.com/)
 [pinterest board](https://hu.pinterest.com/eperjesirita/antihouse/)
 
 
-# Diary
+# DIARY
 
 #### 09.11. consultation with Stefan
 Homework: 
