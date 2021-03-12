@@ -11,22 +11,21 @@ The space is changing according to it's ideas.
 The function of the human can be also reconsidered in this story. 
 The end can be an interactive open ending, where the human can change it to his/her liking. 
 
-#### Introduction
+##### Introduction
 Hi, I'm the space around you. I guess you didn't even see me, usually people just look through me, it's fine, I'm kind of used to this. 
 
-
-#### Scale
+##### Scale
 Should I be small? Should I be big? I can actually be infinitely big! Hello, Burj Khalifa with your 828 meters, look at me! I can do the same but also made of gummybears, isn't it cool? or i can just balance on a needle too, can you do that? 
-
 small-big-infinite
-#### Shape
+
+##### Shape
 cube-sphere-weird generative morph
 
-#### In-Out
+##### In-Out
 
-#### Architypes
+##### Architypes
 
-#### Elements
+##### Elements
 Greek coloumns turning into wobbly dancing gummi thingies
 walls opening with more and more windows, turn into bubble 
 handforest (ij ust write it here not to forget)
@@ -42,11 +41,8 @@ The fisherman's tale VR [a link](https://afishermanstale-game.com/)
 
 [pinterest board](https://hu.pinterest.com/eperjesirita/antihouse/)
 
-## Technology 
 
-## Plan
-
-## Diary
+# Diary
 
 #### 09.11. consultation with Stefan
 Homework: 
