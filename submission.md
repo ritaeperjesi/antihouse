@@ -22,7 +22,12 @@ Unity build?
 ### IDEAL SCENARIO: Windows laptop + Oculus Quest. 
 Actually this is still not superideal for you, as my project is not published to the Oculus Quest, so uploading something to it requires extra things to download.
 
-#### Version A: Unity + Android SDK + Quest
+#### Version A: Sideloading on your Quest
+I've created a build, which in theory should be working. It's in the git_antihouse/antihouse folder, and it's very creatively called antihouse_oculusbuild.apk.
+I found this tutorial on how to add apk files to your Quest from external source:
+https://uploadvr.com/sideloading-quest-how-to/#:~:text=All%20you%20need%20to%20do,of%20the%20official%20SideQuest%20apps
+
+#### Version B: Unity + Android SDK + Quest
 This is how I do things, so I assume, if you do it the same way, it can work. 
 I'm using: 
 - Unity 2019.2.10f1. https://unity3d.com/get-unity/download/archive
