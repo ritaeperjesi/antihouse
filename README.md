@@ -342,3 +342,7 @@ I've spent a lot of time with these animations, and a lot of time trying to brin
 It would be a nicer experience if the jumps between the scenes are smoother, this is something to improve in the future. 
 I went through all my scenes and I tried to find all the little bugs and correct them, and now I decided that what is there, stays there for now.
 
+#### 12.03
+I made the vacuum cleaner go away in the last scene. I made some nicer screenshots, I cleaned up my files, and I put all the thing iI didn't use in the scene but I was somehow afraid to delete them in the Unused gameobjects. It would have been so much easier to work in this itdy way from the beginning. But who am I kidding, even my photoshop files are messy. Although they are only for one time uses usually. I built the oculus apk file, and I tried to put it on the oculus with the SideQuest thing, I've spent quite some time with it, and it was there at the end, but I'm a bit confused if I did everything well. 
+I created a windows build as well. I uploaded everything hopefully. I recorded a gameplay (I mean, more than 5 gameplays), and I edited a gameplay and a trailer video together. They are not amazing, I'm not sure if my computer could render nicely everything, so the recording is breaking a bit, I might redo it later again.  
+I hope I uploaded everything that was needed, and it is easy to understand.
